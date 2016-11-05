@@ -31,7 +31,7 @@ Configuring The Server:
   
     You can create profiles on the server by running:
   
-    * sudo knockknock-genprofile <knockPort> <profileName>
+    * sudo knockknock-genprofile <profileName> <knockPort> 
   
     So, for instance, if we wished to create a profile for
     'clement-laptop' that used '666' as a knock port, we'd run 'sudo
